@@ -55,19 +55,19 @@
                             Console.WriteLine("WRONG OPERATOR");
                             return;
                     }
-                    if(myOperator.Length == 2)
+                    if (myOperator.Length == 2)
                     {
                         Console.WriteLine($"({firstNumber} {myOperator} {secondNumber}) = {compareResult}");
                     }
                     else
                     {
                         Console.WriteLine($"{firstNumber} {myOperator} {secondNumber} = {result}");
-                    }                    
+                    }
                     Console.WriteLine(new string('-', 20));
                 }
 
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 Console.WriteLine(ex.Message);
                 return;
