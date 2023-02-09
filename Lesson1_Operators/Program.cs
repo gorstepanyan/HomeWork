@@ -13,8 +13,7 @@
             Console.WriteLine(new string('-', 20));
 
             string myOperator;
-            int firstNumber, secondNumber;
-            double result = 0;
+            double firstNumber, secondNumber, result = 0.00;
             bool compareResult = false;
 
             try
@@ -23,9 +22,9 @@
                 {
 
                     Console.Write("Enter First Number: ");
-                    firstNumber = Convert.ToInt32(Console.ReadLine());
+                    firstNumber = Convert.ToDouble(Console.ReadLine());
                     Console.Write("Enter Second Number: ");
-                    secondNumber = Convert.ToInt32(Console.ReadLine());
+                    secondNumber = Convert.ToDouble(Console.ReadLine());
                     Console.Write("Enter operator: ");
                     myOperator = Console.ReadLine();
 
