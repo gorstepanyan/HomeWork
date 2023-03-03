@@ -18,7 +18,6 @@
                 {
                     Console.WriteLine($"The values of name = '{name}' and surname = '{surName}' are correct!!!");
                     Console.WriteLine(new string('-', 20));
-
                     Console.Write("Input symbol for count it: ");
                     char chr = Convert.ToChar(Console.ReadLine());
                     Console.WriteLine($"The count of symbol '{chr}' is {human.Check(chr)}");

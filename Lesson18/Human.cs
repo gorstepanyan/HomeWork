@@ -2,8 +2,9 @@
 {
     public class Human
     {
-        private string _name { get; set; }
-        private string _surName { get; set; }
+        private string _name;
+        private string _surName;
+
 
         public Human(string name, string surName)
         {
