@@ -38,11 +38,11 @@
             //string path = Console.ReadLine();
             //AllFilesListFromDirectory(path, "dll", 100);
 
-            Step1(EnumGender.Female, "Abrahamyan Nella");
-            Step1(EnumGender.Male, "Stepanyan Gor");
+            //Step1(EnumGender.Female, "Abrahamyan Nella");
+            //Step1(EnumGender.Male, "Stepanyan Gor");
 
-            DaysOfWeek(DaysOfWeekEnum.Sunday);
-            DaysOfWeek((DaysOfWeekEnum)1);
+            //DaysOfWeek(DaysOfWeekEnum.Sunday);
+            //DaysOfWeek((DaysOfWeekEnum)1);
 
         }
 

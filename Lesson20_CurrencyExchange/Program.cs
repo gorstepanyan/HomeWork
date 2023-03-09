@@ -5,10 +5,6 @@
         static void Main(string[] args)
         {
 
-            int a = 2; int b;
-            b = 3 + a;
-
-            return;
             bool ok = true;
             Currency currency = new Currency();
             long dram = 0;
