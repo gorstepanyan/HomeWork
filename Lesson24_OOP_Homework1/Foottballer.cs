@@ -14,7 +14,7 @@
             PrintDatas();
         }
 
-        public void Run()
+        public override void Run()
         {
             Console.WriteLine($"Footballer {_name} is running...");
             Console.WriteLine(new string('_', 20));

@@ -81,7 +81,7 @@
             }
         }
 
-        public void Run()
+        public virtual void Run()
         {
             Console.WriteLine($"{_name} is running...");
             Console.WriteLine(new string('_', 20));
