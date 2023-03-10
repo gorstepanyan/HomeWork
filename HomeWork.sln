@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson23Car", "Lesson23Car\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson24_OOP_Homework1", "Lesson24_OOP_Homework1\Lesson24_OOP_Homework1.csproj", "{6FEBB990-FDE2-4E94-909D-CAB991B89C35}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson25_Polimorphism", "Lesson_25_Polimorphism\Lesson25_Polimorphism.csproj", "{479704BC-B1FD-4F8F-8F4D-6F4C37FD607C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{6FEBB990-FDE2-4E94-909D-CAB991B89C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FEBB990-FDE2-4E94-909D-CAB991B89C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FEBB990-FDE2-4E94-909D-CAB991B89C35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479704BC-B1FD-4F8F-8F4D-6F4C37FD607C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479704BC-B1FD-4F8F-8F4D-6F4C37FD607C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479704BC-B1FD-4F8F-8F4D-6F4C37FD607C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479704BC-B1FD-4F8F-8F4D-6F4C37FD607C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
