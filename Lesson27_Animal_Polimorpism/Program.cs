@@ -17,6 +17,7 @@
                 animal.Voice();
             }
 
+
         }
 
         static Animal GetAnimalType(AnimalsEnum animal)
