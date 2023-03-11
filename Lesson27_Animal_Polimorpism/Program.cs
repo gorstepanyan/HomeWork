@@ -14,7 +14,7 @@
             Animal[] animals = new Animal[] { new Cow(), new Cat(), new Dog() };
             foreach (var animal in animals)
             {
-                animal.Voice();
+                animal.Speed(new Random().Next(20, 50));
             }
 
 

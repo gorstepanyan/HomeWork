@@ -6,5 +6,9 @@
         {
             Console.WriteLine("Cat say Myauuuuuuu");
         }
+        public override void Speed(int speed)
+        {
+            Console.WriteLine("Cat's speed is " + speed);
+        }
     }
 }
