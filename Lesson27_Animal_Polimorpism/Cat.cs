@@ -4,11 +4,11 @@
     {
         public override void Voice()
         {
-            Console.WriteLine("Cat say Myauuuuuuu");
+            Console.WriteLine($"{GetType().Name} says Myauuuuuuu");
         }
         public override void Speed(int speed)
         {
-            Console.WriteLine("Cat's speed is " + speed);
+            Console.WriteLine($"{GetType().Name}at's speed is " + speed);
         }
     }
 }

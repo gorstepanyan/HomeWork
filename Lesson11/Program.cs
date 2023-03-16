@@ -1,6 +1,6 @@
 ﻿using System.Data;
 
-namespace Lesson11
+namespace Lesson11_Overloading
 {
     internal class Program
     {

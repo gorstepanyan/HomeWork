@@ -1,4 +1,4 @@
-﻿namespace Lesson_25_Polimorphism
+﻿namespace Lesson25_Polimorphism_Dynamic_Static
 {
     #region Dynamic Polimorphism Classes
     internal class Univesity
@@ -36,6 +36,7 @@
     }
     #endregion
 
+    #region Static Polimorphism Classes
     public class Parent
     {
         public void Multiplication(double input1, double input2)
@@ -66,4 +67,5 @@
             p.Multiplication(10.5, 3);
         }
     }
+    #endregion
 }

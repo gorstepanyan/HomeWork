@@ -1,4 +1,4 @@
-﻿namespace Lesson27_Animal_Polimorpism
+﻿namespace Lesson28_Animal_Abstraction
 {
     internal class Program
     {
@@ -29,7 +29,7 @@
                 case AnimalsEnum.Cow:
                     return new Cow();
                 default:
-                    return new Animal();
+                    throw new Exception("Unnown animal type");
             }
         }
     }

@@ -1,13 +1,14 @@
-﻿namespace Lesson27_Animal_Polimorpism
+﻿namespace Lesson28_Animal_Abstraction
 {
     internal class Cow : Animal
     {
         public override void Voice()
         {
-            Console.WriteLine($"{GetType().Name} says Muuuuuuuuuuuu");
+            Console.WriteLine("Cow is muuuuuing");
         }
         public override void Speed(int speed)
         {
+            base.Speed(new Random().Next(15, 56));
             Console.WriteLine("Cow's speed is " + speed);
         }
     }

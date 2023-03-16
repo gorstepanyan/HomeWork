@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson9", "Lesson9\Lesson9.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson10", "Lesson10\Lesson10.csproj", "{C0C1D39D-619C-400E-AFD1-6405DB3534F5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson11", "Lesson11\Lesson11.csproj", "{3C4FDFC0-F1D3-457D-91ED-7880A0DC2529}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson11_Overloading", "Lesson11\Lesson11_Overloading.csproj", "{3C4FDFC0-F1D3-457D-91ED-7880A0DC2529}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson12", "Lesson12\Lesson12.csproj", "{2124CBFC-10BD-4954-84C3-870BE2D31597}"
 EndProject
@@ -49,11 +49,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson23Car", "Lesson23Car\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson24_OOP_Homework1", "Lesson24_OOP_Homework1\Lesson24_OOP_Homework1.csproj", "{6FEBB990-FDE2-4E94-909D-CAB991B89C35}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson25_Polimorphism", "Lesson_25_Polimorphism\Lesson25_Polimorphism.csproj", "{479704BC-B1FD-4F8F-8F4D-6F4C37FD607C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson25_Polimorphism_Dynamic_Static", "Lesson_25_Polimorphism\Lesson25_Polimorphism_Dynamic_Static.csproj", "{479704BC-B1FD-4F8F-8F4D-6F4C37FD607C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson26_Polimorphism", "Lesson26_Polimorphism\Lesson26_Polimorphism.csproj", "{23998643-3722-4DE4-9AE4-4D6F8D4E53C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson26_Polimorphism", "Lesson26_Polimorphism\Lesson26_Polimorphism.csproj", "{23998643-3722-4DE4-9AE4-4D6F8D4E53C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson27_Animal_Polimorpism", "Lesson27_Animal_Polimorpism\Lesson27_Animal_Polimorpism.csproj", "{F1DF86B2-A139-4FD5-B91A-E87609427B5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson27_Animal_Polimorpism", "Lesson27_Animal_Polimorpism\Lesson27_Animal_Polimorpism.csproj", "{F1DF86B2-A139-4FD5-B91A-E87609427B5C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson28_Animal_Abstraction", "Lesson28_Animal_Abstraction\Lesson28_Animal_Abstraction.csproj", "{C91DADE6-8C2D-4CD5-8E26-6FF58230F9E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson29", "Lesson29\Lesson29.csproj", "{144E0A74-6D4C-4AD7-9A03-4235B441072B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +169,14 @@ Global
 		{F1DF86B2-A139-4FD5-B91A-E87609427B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1DF86B2-A139-4FD5-B91A-E87609427B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1DF86B2-A139-4FD5-B91A-E87609427B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91DADE6-8C2D-4CD5-8E26-6FF58230F9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91DADE6-8C2D-4CD5-8E26-6FF58230F9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91DADE6-8C2D-4CD5-8E26-6FF58230F9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91DADE6-8C2D-4CD5-8E26-6FF58230F9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144E0A74-6D4C-4AD7-9A03-4235B441072B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144E0A74-6D4C-4AD7-9A03-4235B441072B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144E0A74-6D4C-4AD7-9A03-4235B441072B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144E0A74-6D4C-4AD7-9A03-4235B441072B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
