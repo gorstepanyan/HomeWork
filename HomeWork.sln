@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson27_Animal_Polimorpism
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson28_Animal_Abstraction", "Lesson28_Animal_Abstraction\Lesson28_Animal_Abstraction.csproj", "{C91DADE6-8C2D-4CD5-8E26-6FF58230F9E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson29", "Lesson29\Lesson29.csproj", "{144E0A74-6D4C-4AD7-9A03-4235B441072B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson29", "Lesson29\Lesson29.csproj", "{144E0A74-6D4C-4AD7-9A03-4235B441072B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson30_Delegate", "Lesson30_SalaryByDelegate\Lesson30_Delegate.csproj", "{B9CA0E87-CE0D-4DC4-8106-FF836C0B1E39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{144E0A74-6D4C-4AD7-9A03-4235B441072B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{144E0A74-6D4C-4AD7-9A03-4235B441072B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{144E0A74-6D4C-4AD7-9A03-4235B441072B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CA0E87-CE0D-4DC4-8106-FF836C0B1E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CA0E87-CE0D-4DC4-8106-FF836C0B1E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CA0E87-CE0D-4DC4-8106-FF836C0B1E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CA0E87-CE0D-4DC4-8106-FF836C0B1E39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
