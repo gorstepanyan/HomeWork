@@ -1,4 +1,4 @@
-﻿namespace Lesson34_Event_Byte__
+﻿namespace Lesson39_Event_Byte__
 {
     public delegate void EventDelegate();
 
