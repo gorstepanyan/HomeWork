@@ -79,9 +79,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson38_Delegate", "Lesson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson39_WPF_UsersApp1", "Lesson39_WPF_UsersApp1\Lesson39_WPF_UsersApp1.csproj", "{3400743F-41B5-403F-B960-705D74D19584}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson40_SplitMethod", "Lesson40\Lesson40_SplitMethod.csproj", "{E18B3720-2D1E-4B31-A260-6CD285318387}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson40_SplitMethod", "Lesson40\Lesson40_SplitMethod.csproj", "{E18B3720-2D1E-4B31-A260-6CD285318387}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson41_WindowsForms_Event", "Lesson41_WindowsForms_Event\Lesson41_WindowsForms_Event.csproj", "{DEB57C74-4CB2-4254-A79B-42DF221E4812}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson41_WindowsForms_Event", "Lesson41_WindowsForms_Event\Lesson41_WindowsForms_Event.csproj", "{DEB57C74-4CB2-4254-A79B-42DF221E4812}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL", "SQL", "{12C9A721-3058-4207-AA29-8A55CDC8C1B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
